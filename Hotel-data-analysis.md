@@ -8,8 +8,8 @@ The Power BI dashboard includes the following visuals:
 - Revenue per available room (RevPAR).
 - Occupancy rate.
 - Filters by city, year, country revenue.
-[Power BI Dashboard](https://app.powerbi.com/view?r=YOUR_UNIQUE_LINK_HERE)
-![Screenshot 2024-05-17 152850](https://github.com/muralikatta12/Dashboard/assets/124357793/d9976efc-61bb-4bbd-84c4-43d3527b47f4)
+
+![Screenshot 2024-05-17 152850]("C:\Users\mural\OneDrive\Desktop\Revenue Insights Hosp.rar")
 
 ## Data Sources
 
